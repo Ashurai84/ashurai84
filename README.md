@@ -12,6 +12,13 @@ And a **first-year student at ITM Skills University** 🚀
 
 ---
 
+## 🏆 Achievements  
+
+- 🦈 **Pull Shark** – Merged pull requests in a public repository.  
+- 🔥 **YOLO** – Merged a PR without a code review (living on the edge!).  
+
+---
+
 ## 🛠️ Technologies  
 
 - **Frontend:** HTML, CSS, JavaScript, React.js (low code)  
@@ -40,4 +47,4 @@ A website for 5th to 10th-grade students focusing on vocational subjects to help
 
 ---
 
-✨ Feel free to explore my repositories and connect for collaborations or ideas. Let's innovate together!  
+✨ Feel free to explore my repositories and connect for collaborations or ideas. Let's innovate together! 🚀  
