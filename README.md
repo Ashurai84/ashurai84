@@ -27,17 +27,18 @@ And a **first-year student at ITM Skills University** 🚀
 
 ---
 
-## 📚 My Projects  
+📚 My Projects
+🌟 SpoilerHub
+A personalized movie recommendation platform integrating LLaMA AI for real-time suggestions.
 
-### 🌟 **SpoilerHub**  
-A personalized movie recommendation platform integrating **LLaMA AI** for real-time suggestions.  
+🌿 Diazones
+A health-focused platform featuring curated diets for diabetic patients with vegan, gluten-free, and low-carb options.
 
-### 🌿 **Diazones**  
-A health-focused platform featuring curated diets for diabetic patients with vegan, gluten-free, and low-carb options.  
+📖 Learnvox
+A website for 5th to 10th-grade students focusing on vocational subjects to help them choose their streams responsibly.
 
-### 📖 **Learnvox**  
-A website for 5th to 10th-grade students focusing on vocational subjects to help them choose their streams responsibly.  
-
+🎉 Birthday Wisher
+A Tkinter-based desktop app that lets users schedule and send automated birthday wishes via email using SMTP (smtplib).
 ---
 
 ## 📫 Connect with Me  
