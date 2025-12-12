@@ -1,31 +1,100 @@
-# 💫 About Me:
-About Me<br><br>💻 Full-stack Developer (Beginner → Building Big)<br><br>🌐 Love creating clean, intuitive, and responsive web apps<br><br>🤖 Fascinated by AI integrations and intelligent systems<br><br>🎨 UI/UX + Branding using CorelDRAW, Figma, Lovable, Bubble<br><br>📚 Constant learner — always exploring something new<br><br>
+# 🚀 Hi there, I'm Ashutosh Pankaj Rai!
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ashutosh%20Pankaj%20Rai&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20&descAlignY=51&descAlign=62" width="100%" alt="Header" />
+  
+  <br />
+  
+  <a href="https://linkedin.com/in/ashutosh-pankaj-rai-itm">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Raia40094@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/ashurai_84">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashurai_84) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-pankaj-rai-itm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/71_ashutosh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Raia40094@gmail.com) 
+<br />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashurai84&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ashurai84&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashurai84&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## ⚡ About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ashurai84&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I'm a passionate **Full-Stack Developer** and **UI/UX Enthusiast** currently pursuing my undergraduate degree at **ITM Skills University**. I love building clean, intuitive web applications and exploring the intersection of **AI and Design**.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ashurai84&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 I’m currently working on **AI-integrated web platforms**.
+- 🌱 I’m currently learning **Advanced React Patterns** and **AI System Design**.
+- 🎨 I design using **Figma**, **CorelDRAW**, and **Lovable**.
+- 💡 Fun fact: I build **email bots** because I sometimes forget birthdays! 🎂
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ashurai84&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ashurai_84) 
+## 🛠️ Tech Stack
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![CorelDraw](https://img.shields.io/badge/CorelDraw-000000?style=for-the-badge&logo=coreldraw&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🌟 Smart Home IoT API** | A complete backend for IoT device control. Supports User Auth (JWT), Device toggling, AC settings, and Activity Logs. Used in live production. | `Node.js` `Express` `MongoDB` `Render` |
+| **🎥 SpoilerHub** | AI-powered movie recommendation platform using LLaMA. Features real-time mood-based suggestions and a clean entertainment-focused UI. | `AI` `LLaMA` `React` `Tailwind` |
+| **🩺 SugarSense** | Educational platform simplifying blood sugar awareness. Offers diet advice and lifestyle choices with a comforting, fear-reducing UI. | `React` `HealthTech` |
+| **🌿 Diazones** | Customized diet planner for diabetics. specialized in Vegan, Gluten-free, and Low-carb plans to help patients make smart food decisions. | `React` `Nutrition` |
+| **📖 Learnvox** | Vocational learning hub for students (5th-10th grade). Helps students explore career paths and understand vocational subjects. | `EdTech` `Web` |
+| **🎉 Birthday Wisher** | Desktop automation app that schedules and sends birthday emails automatically via SMTP. Never forget a birthday again! | `Python` `Tkinter` `SMTP` |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ashurai84&theme=tokyonight&hide_border=true&show_icons=true" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashurai84&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Ashurai84&theme=tokyonight&hide_border=true" alt="streak graph" />
+
+</div>
+
+---
+
+## 💰 Support Me
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/ashurai_84">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Ashurai84&color=blue&style=flat-square&label=Profile+Views" alt="Visitor Count" />
+
+</div>
