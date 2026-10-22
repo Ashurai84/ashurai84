@@ -98,22 +98,18 @@ I'm **Ashutosh Rai**, a **Full-Stack Engineer & AI Systems Architect** obsessed 
 <div align="center">
 
 <a href="https://github.com/Ashurai84">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Ashurai84&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=8B5CF6&icon_color=EC4899&text_color=94A3B8&ring_color=8B5CF6" alt="Ashutosh's GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Ashurai84&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=8B5CF6&icon_color=EC4899&text_color=CBD5E1&ring_color=8B5CF6" alt="Ashutosh's GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Ashurai84">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashurai84&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=8B5CF6&text_color=94A3B8&langs_count=8" alt="Top Languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashurai84&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=8B5CF6&text_color=CBD5E1&langs_count=8" alt="Top Languages" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/Ashurai84">
-  <img width="650" src="https://streak-stats.demolab.com?user=Ashurai84&hide_border=true&background=0A0A1A&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=94A3B8&dates=505070&stroke=1E1E38" alt="Streak Stats" />
+  <img width="650" src="https://streak-stats.demolab.com?user=Ashurai84&hide_border=true&background=0A0A1A&ring=8B5CF6&fire=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=CBD5E1&dates=94A3B8&stroke=232342" alt="Streak Stats" />
 </a>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashurai84&bg_color=0a0a1a&color=8B5CF6&line=EC4899&point=ffffff&area_color=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
 
