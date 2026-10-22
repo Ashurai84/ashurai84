@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+  <defs>
+    <!-- Animated gradient -->
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea">
+        <animate attributeName="stop-color" values="#667eea;#764ba2;#f093fb;#667eea" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#764ba2">
+        <animate attributeName="stop-color" values="#764ba2;#f093fb;#667eea;#764ba2" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#f093fb">
+        <animate attributeName="stop-color" values="#f093fb;#667eea;#764ba2;#f093fb" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Soft glow for orbs -->
+    <filter id="orbGlow">
+      <feGaussianBlur stdDeviation="15" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Glass effect -->
+    <filter id="glass">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+    </filter>
+
+    <!-- Mask for text reveal -->
+    <clipPath id="textClip">
+      <rect x="0" y="0" width="900" height="320"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&amp;display=swap');
+    
+    .bg { fill: #0a0a1a; }
+    
+    .name-text {
+      font-family: 'Inter', 'Segoe UI', sans-serif;
+      font-weight: 900;
+      font-size: 82px;
+      fill: url(#grad1);
+      filter: url(#glow);
+      letter-spacing: 8px;
+    }
+    
+    .subtitle {
+      font-family: 'Inter', 'Segoe UI', sans-serif;
+      font-weight: 600;
+      font-size: 16px;
+      fill: #a0a0c0;
+      letter-spacing: 6px;
+      text-transform: uppercase;
+    }
+    
+    .tagline {
+      font-family: 'Inter', 'Segoe UI', sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+      fill: #7070a0;
+      letter-spacing: 2px;
+    }
+
+    .line {
+      stroke: url(#grad1);
+      stroke-width: 2;
+      fill: none;
+      opacity: 0.5;
+    }
+
+    .dot {
+      fill: url(#grad1);
+      opacity: 0.6;
+    }
+
+    /* Floating orbs */
+    .orb1 {
+      animation: float1 8s ease-in-out infinite;
+    }
+    .orb2 {
+      animation: float2 10s ease-in-out infinite;
+    }
+    .orb3 {
+      animation: float3 7s ease-in-out infinite;
+    }
+
+    @keyframes float1 {
+      0%, 100% { transform: translate(0, 0); opacity: 0.3; }
+      50% { transform: translate(30px, -20px); opacity: 0.6; }
+    }
+    @keyframes float2 {
+      0%, 100% { transform: translate(0, 0); opacity: 0.2; }
+      50% { transform: translate(-25px, 15px); opacity: 0.5; }
+    }
+    @keyframes float3 {
+      0%, 100% { transform: translate(0, 0); opacity: 0.25; }
+      50% { transform: translate(20px, 25px); opacity: 0.55; }
+    }
+
+    /* Slide in animation */
+    .slide-in {
+      animation: slideIn 1.2s ease-out forwards;
+      opacity: 0;
+    }
+    @keyframes slideIn {
+      0% { opacity: 0; transform: translateY(20px); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+
+    .slide-in-delay {
+      animation: slideIn 1.2s ease-out 0.4s forwards;
+      opacity: 0;
+    }
+
+    .slide-in-delay2 {
+      animation: slideIn 1.2s ease-out 0.8s forwards;
+      opacity: 0;
+    }
+
+    /* Pulse for decorative elements */
+    .pulse {
+      animation: pulse 3s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 0.7; }
+    }
+
+    /* Sparkle */
+    .sparkle {
+      animation: sparkle 2s ease-in-out infinite;
+    }
+    @keyframes sparkle {
+      0%, 100% { opacity: 0; transform: scale(0); }
+      50% { opacity: 1; transform: scale(1); }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" width="900" height="320" rx="16"/>
+
+  <!-- Floating gradient orbs -->
+  <circle class="orb1" cx="120" cy="80" r="80" fill="#667eea" opacity="0.15" filter="url(#orbGlow)"/>
+  <circle class="orb2" cx="780" cy="240" r="100" fill="#f093fb" opacity="0.1" filter="url(#orbGlow)"/>
+  <circle class="orb3" cx="450" cy="300" r="60" fill="#764ba2" opacity="0.12" filter="url(#orbGlow)"/>
+
+  <!-- Grid pattern (subtle) -->
+  <g opacity="0.04">
+    <line x1="0" y1="40" x2="900" y2="40" stroke="white" stroke-width="0.5"/>
+    <line x1="0" y1="80" x2="900" y2="80" stroke="white" stroke-width="0.5"/>
+    <line x1="0" y1="120" x2="900" y2="120" stroke="white" stroke-width="0.5"/>
+    <line x1="0" y1="160" x2="900" y2="160" stroke="white" stroke-width="0.5"/>
+    <line x1="0" y1="200" x2="900" y2="200" stroke="white" stroke-width="0.5"/>
+    <line x1="0" y1="240" x2="900" y2="240" stroke="white" stroke-width="0.5"/>
+    <line x1="0" y1="280" x2="900" y2="280" stroke="white" stroke-width="0.5"/>
+    <line x1="100" y1="0" x2="100" y2="320" stroke="white" stroke-width="0.5"/>
+    <line x1="200" y1="0" x2="200" y2="320" stroke="white" stroke-width="0.5"/>
+    <line x1="300" y1="0" x2="300" y2="320" stroke="white" stroke-width="0.5"/>
+    <line x1="400" y1="0" x2="400" y2="320" stroke="white" stroke-width="0.5"/>
+    <line x1="500" y1="0" x2="500" y2="320" stroke="white" stroke-width="0.5"/>
+    <line x1="600" y1="0" x2="600" y2="320" stroke="white" stroke-width="0.5"/>
+    <line x1="700" y1="0" x2="700" y2="320" stroke="white" stroke-width="0.5"/>
+    <line x1="800" y1="0" x2="800" y2="320" stroke="white" stroke-width="0.5"/>
+  </g>
+
+  <!-- Decorative gradient lines -->
+  <line class="line pulse" x1="50" y1="100" x2="200" y2="100"/>
+  <line class="line pulse" x1="700" y1="220" x2="850" y2="220"/>
+
+  <!-- Sparkle dots -->
+  <circle class="sparkle" cx="160" cy="60" r="2" fill="#f093fb"/>
+  <circle class="sparkle" cx="740" cy="90" r="1.5" fill="#667eea" style="animation-delay: 0.5s"/>
+  <circle class="sparkle" cx="300" cy="270" r="2" fill="#764ba2" style="animation-delay: 1s"/>
+  <circle class="sparkle" cx="600" cy="50" r="1.5" fill="#f093fb" style="animation-delay: 1.5s"/>
+  <circle class="sparkle" cx="820" cy="160" r="2" fill="#667eea" style="animation-delay: 0.8s"/>
+
+  <!-- Small decorative dots -->
+  <circle class="dot pulse" cx="70" cy="160" r="3"/>
+  <circle class="dot pulse" cx="830" cy="130" r="3" style="animation-delay: 1s"/>
+
+  <!-- Main Name -->
+  <text class="name-text slide-in" x="450" y="155" text-anchor="middle" dominant-baseline="middle">
+    ASHUTOSH
+  </text>
+
+  <!-- Subtitle -->
+  <text class="subtitle slide-in-delay" x="450" y="210" text-anchor="middle">
+    Full-Stack Engineer  ·  AI Architect  ·  Builder
+  </text>
+
+  <!-- Tagline -->
+  <text class="tagline slide-in-delay2" x="450" y="255" text-anchor="middle">
+    Turning ideas into production-grade software
+  </text>
+
+  <!-- Bottom gradient line -->
+  <rect x="250" y="285" width="400" height="2" rx="1" fill="url(#grad1)" opacity="0.4">
+    <animate attributeName="width" values="0;400" dur="2s" fill="freeze"/>
+    <animate attributeName="x" values="450;250" dur="2s" fill="freeze"/>
+  </rect>
+</svg>

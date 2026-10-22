@@ -1,157 +1,148 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
-
-<br>
-
+<!-- CUSTOM ANIMATED HEADER — ASHUTOSH in glowing gradient with floating orbs -->
 <a href="https://github.com/Ashurai84">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Ashutosh+Rai;Full+Stack+Developer;AI+%26+Systems+Architect;Open+Source+Enthusiast" alt="Name" />
+  <img src="./assets/header.svg" width="100%" alt="Ashutosh Rai — Full-Stack Engineer & AI Architect" />
 </a>
 
 <br>
 
-<a href="mailto:Raia40094@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Raia40094-white?style=flat&logo=gmail&logoColor=EA4335&labelColor=white" alt="Gmail" />
-</a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ashutosh-pankaj-rai-itm">
-  <img src="https://img.shields.io/badge/LinkedIn-Ashutosh_Rai-white?style=flat&logo=linkedin&logoColor=0A66C2&labelColor=white" alt="LinkedIn" />
-</a>&nbsp;&nbsp;
+<!-- TYPING ANIMATION -->
 <a href="https://github.com/Ashurai84">
-  <img src="https://img.shields.io/badge/GitHub-Ashurai84-white?style=flat&logo=github&logoColor=181717&labelColor=white" alt="GitHub" />
-</a>&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Ashurai84&label=Visitors&color=blueviolet&style=flat" alt="Visitors" />
-
-<br><br>
-
-<img width="600" src="https://github-widgetbox.vercel.app/api/profile?username=Ashurai84&data=followers,repositories,stars,commits&theme=viridescent" alt="Profile Stats" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
-
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF"/>
-
-&nbsp;&nbsp;&nbsp;🎓 &nbsp;B.Tech CS student passionate about building real products\
-&nbsp;&nbsp;&nbsp;🔭 &nbsp;Currently shipping **Sprint-OS** — an academic command center\
-&nbsp;&nbsp;&nbsp;🧠 &nbsp;Building **Dhwani AI** — voice synthesis + conversational agents\
-&nbsp;&nbsp;&nbsp;📲 &nbsp;Created **PostAura** — social media automation platform\
-&nbsp;&nbsp;&nbsp;🏥 &nbsp;Built **Smart Hospital Queue** — real-time patient routing\
-&nbsp;&nbsp;&nbsp;🤖 &nbsp;Deep into **RAG pipelines**, **LLMs**, and **agentic workflows**\
-&nbsp;&nbsp;&nbsp;💡 &nbsp;I believe in clean code, pixel-perfect UI, and shipping fast\
-&nbsp;&nbsp;&nbsp;📫 &nbsp;How to reach me: **Raia40094@gmail.com**
-
-<br clear="both">
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
-
-<div align="center">
-
-### 🖥️ Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Frontend & Mobile
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-### ⚙️ Backend & Databases
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🤖 AI & DevOps
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/RAG_Pipelines-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🛠️ Stack |
-|:---:|:---|:---|
-| [**⚡ Sprint-OS**](https://github.com/Ashurai84) | Academic command center with real-time syllabus tracking, dynamic analytics & study timers | `React` `Vite` `Tailwind` `Node.js` |
-| [**🎙️ Dhwani AI**](https://github.com/Ashurai84) | Neural voice synthesis platform with speech-to-text & conversational AI agents | `Python` `PyTorch` `FastAPI` `LLMs` |
-| [**📲 PostAura**](https://github.com/Ashurai84) | Enterprise social media automation — scheduling, analytics & content pipelines | `Next.js` `PostgreSQL` `Redis` `BullMQ` |
-| [**🏥 Smart Hospital**](https://github.com/Ashurai84) | Intelligent triage routing & real-time doctor queue balancing system | `MERN` `WebSockets` `Real-time` |
-| [**🏡 Smart Home**](https://github.com/Ashurai84) | IoT home automation with voice control & mobile companion app | `React` `Node.js` `Flutter` `IoT` |
-| [**🧠 ML Projects**](https://github.com/Ashurai84) | Machine learning — classification, NLP, computer vision experiments | `Python` `Scikit-Learn` `Pandas` |
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Ashurai84">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashurai84&show_icons=true&theme=aura&hide_border=true&bg_color=1a1b27&title_color=c792ea&icon_color=c792ea&text_color=a9b1d6&ring_color=c792ea" alt="Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=9580FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=react+%C2%B7+typescript+%C2%B7+node+%C2%B7+python+%C2%B7+flutter;building+ai+agents+%26+rag+pipelines;shipping+code+that+matters+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-&nbsp;&nbsp;&nbsp;
+
+<br>
+
+<!-- SOCIAL LINKS — minimal, flat style -->
+[![Gmail](https://img.shields.io/badge/Raia40094@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Raia40094@gmail.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/ashutosh--pankaj--rai-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-pankaj-rai-itm)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/Ashurai84-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ashurai84)&nbsp;&nbsp;
+![Views](https://komarev.com/ghpvc/?username=Ashurai84&label=visitors&color=9580FF&style=flat)
+
+</div>
+
+<!-- DIVIDER -->
+<img src="./assets/divider.svg" width="100%" />
+
+<br>
+
+<!-- ABOUT ME — with coding gif -->
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
+
+### ⚡ About
+
+I'm a **Full-Stack Engineer & AI Systems Architect** who ships production-grade software — from pixel-perfect frontends to distributed backend services to intelligent AI pipelines.
+
+- 🔭 &nbsp;Shipping **[Sprint-OS](https://github.com/Ashurai84)** — academic command center
+- 🧠 &nbsp;Building **Dhwani AI** — neural voice synthesis & agents
+- 📲 &nbsp;Created **PostAura** — social media automation suite
+- 🏥 &nbsp;Built **Smart Hospital Queue** — real-time triage routing
+- 🤖 &nbsp;Deep into **RAG pipelines**, **LLMs** & **agentic workflows**
+- 📫 &nbsp;**Raia40094@gmail.com**
+
+<br clear="both"/>
+
+<!-- DIVIDER -->
+<img src="./assets/divider.svg" width="100%" />
+
+<br>
+
+### 🧬 Stack
+
+<div align="center">
+
+**Languages**\
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+**Frontend & Mobile**\
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
+**Backend & Data**\
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**AI & Tools**\
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/RAG_Pipelines-412991?style=flat&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+</div>
+
+<!-- DIVIDER -->
+<img src="./assets/divider.svg" width="100%" />
+
+<br>
+
+### 🚀 Projects
+
+<div align="center">
+
+| | Project | What it does | Built with |
+|:---:|:---|:---|:---|
+| ⚡ | **Sprint-OS** | Academic command center — syllabus tracking, analytics, timers | `React` `Vite` `Tailwind` `Node` |
+| 🎙️ | **Dhwani AI** | Neural voice synthesis & conversational AI platform | `Python` `PyTorch` `FastAPI` `LLMs` |
+| 📲 | **PostAura** | Social media automation — scheduling & analytics | `Next.js` `PostgreSQL` `Redis` `BullMQ` |
+| 🏥 | **Smart Hospital** | Intelligent triage & real-time queue management | `MERN` `WebSockets` |
+| 🏡 | **Smart Home** | IoT home automation with voice control & mobile app | `React` `Node` `Flutter` `IoT` |
+| 🧠 | **ML Portfolio** | Classification, NLP & computer vision experiments | `Python` `Scikit-Learn` `Pandas` |
+
+</div>
+
+<!-- DIVIDER -->
+<img src="./assets/divider.svg" width="100%" />
+
+<br>
+
+### 📊 Stats
+
+<div align="center">
+
 <a href="https://github.com/Ashurai84">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashurai84&layout=compact&theme=aura&hide_border=true&bg_color=1a1b27&title_color=c792ea&text_color=a9b1d6&langs_count=8" alt="Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashurai84&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=9580FF&icon_color=9580FF&text_color=a0a0c0&ring_color=9580FF&include_all_commits=true" alt="Stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Ashurai84">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashurai84&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=9580FF&text_color=a0a0c0&langs_count=8" alt="Languages" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/Ashurai84">
-  <img width="700" src="https://streak-stats.demolab.com?user=Ashurai84&theme=aura-dark&hide_border=true&background=1a1b27&ring=c792ea&fire=ff6b81&currStreakLabel=c792ea&sideLabels=a9b1d6&dates=545c7e" alt="Streak" />
+  <img width="600" src="https://streak-stats.demolab.com?user=Ashurai84&hide_border=true&background=0A0A1A&ring=9580FF&fire=F093FB&currStreakLabel=9580FF&sideLabels=A0A0C0&dates=505070&stroke=1a1a3a" alt="Streak" />
 </a>
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashurai84&bg_color=1a1b27&color=c792ea&line=ff6b81&point=ffffff&area_color=c792ea&area=true&hide_border=true&custom_title=📊%20Contribution%20Timeline" alt="Activity Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashurai84&bg_color=0a0a1a&color=9580ff&line=f093fb&point=ffffff&area_color=9580ff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 
 </div>
 
+<!-- DIVIDER -->
+<img src="./assets/divider.svg" width="100%" />
+
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## 🏆 Achievements
+### 🏆 Trophies
 
 <div align="center">
 
@@ -159,46 +150,28 @@
 
 </div>
 
+<!-- DIVIDER -->
+<img src="./assets/divider.svg" width="100%" />
+
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## 🐍 Contribution Snake
+### 📊 Profile Summary
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashurai84/Ashurai84/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashurai84/Ashurai84/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Ashurai84/Ashurai84/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashurai84&theme=2077" width="95%" alt="Profile Details" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashurai84&theme=2077" width="32%" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashurai84&theme=2077" width="32%" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashurai84&theme=2077&utcOffset=5.5" width="32%" alt="Productive Time" />
 
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<!-- CUSTOM ANIMATED FOOTER -->
 <div align="center">
-
-<br>
-
-### 💌 Let's Build Something Amazing Together
-
-<br>
-
-<a href="mailto:Raia40094@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://linkedin.com/in/ashutosh-pankaj-rai-itm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/Ashurai84"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="500"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-
+  <img src="./assets/footer.svg" width="100%" alt="Footer" />
 </div>
