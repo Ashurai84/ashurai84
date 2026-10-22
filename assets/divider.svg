@@ -1,18 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="4" viewBox="0 0 900 4">
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="24" viewBox="0 0 950 24" fill="none">
   <defs>
-    <linearGradient id="dGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#667eea" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#667eea" stop-opacity="1">
-        <animate attributeName="stop-color" values="#667eea;#764ba2;#f093fb;#667eea" dur="4s" repeatCount="indefinite"/>
+    <linearGradient id="divLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#8B5CF6" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#EC4899" stop-opacity="0.9">
+        <animate attributeName="stop-color" values="#EC4899;#06B6D4;#8B5CF6;#EC4899" dur="6s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="50%" stop-color="#764ba2">
-        <animate attributeName="stop-color" values="#764ba2;#f093fb;#667eea;#764ba2" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="80%" stop-color="#f093fb">
-        <animate attributeName="stop-color" values="#f093fb;#667eea;#764ba2;#f093fb" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#f093fb" stop-opacity="0"/>
+      <stop offset="65%" stop-color="#8B5CF6" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
     </linearGradient>
+    <filter id="jewelGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="glow"/>
+      <feComposite in="SourceGraphic" in2="glow" operator="over"/>
+    </filter>
   </defs>
-  <rect x="0" y="1" width="900" height="2" rx="1" fill="url(#dGrad)"/>
+
+  <!-- Glowing Line -->
+  <line x1="60" y1="12" x2="890" y2="12" stroke="url(#divLineGrad)" stroke-width="1.5"/>
+
+  <!-- Center Diamond Accent -->
+  <g transform="translate(475, 12)">
+    <polygon points="0,-6 6,0 0,6 -6,0" fill="#EC4899" filter="url(#jewelGlow)">
+      <animate attributeName="fill" values="#EC4899;#06B6D4;#8B5CF6;#EC4899" dur="6s" repeatCount="indefinite"/>
+    </polygon>
+    <circle cx="0" cy="0" r="1.5" fill="#FFFFFF"/>
+  </g>
 </svg>
